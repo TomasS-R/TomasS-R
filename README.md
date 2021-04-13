@@ -23,6 +23,7 @@ Some information about me:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 [![TomasS-R GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasS-R&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">🌎 You can contact me in this social medias:</h1>
