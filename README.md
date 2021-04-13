@@ -22,7 +22,8 @@ Some information about me:
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/wordpress.svg" alt="Wordpress" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![TomasS-R GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasS-R&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![TomasS-R GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasS-R&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">🌎 You can contact me in this social medias:</h1>
 
@@ -34,5 +35,5 @@ AWS: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/a
 Git: <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 Unity: <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 Adobe XD: <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -->
