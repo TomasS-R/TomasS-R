@@ -2,8 +2,7 @@
 
 ### I´m junior Developer but enthusiastic, studing computer engineering. I would like work with andoid/ios devs
 
-
-A little information of my:
+Some information about me:
 
 - 🔭 I am passionate about technology and very curious of the life in general.
 - 😄 Pronouns: Tom, Tommy, please don´t call me thomas or tomato. 😅
