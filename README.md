@@ -1,4 +1,4 @@
-# Hí! I´m Tomás. <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/Hand.gif?raw=true" alt="heroku" width="40" height="40"/>👨🏻‍💻
+ <h1 align = "center"> Hí! I´m Tomás. <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/Hand.gif?raw=true" alt="heroku" width="40" height="40"/>👨🏻‍💻</h1>
 
 ### I´m junior Developer and enthusiastic, studing computer engineering. I would like work with andoid/ios devs
 
