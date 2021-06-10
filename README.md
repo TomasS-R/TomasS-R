@@ -26,6 +26,8 @@ Some information about me:
 
 [![TomasS-R GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasS-R&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/TomasS-R/TomasS-R/blob/096c42c56aaa61c59edc799cf0abfecf5be47890/animation.gif" alt="ironman"/> 
+
 <h1 align="center">🌎 You can contact me in this social medias:</h1>
 
 <a href="https://twitter.com/TomSaintRomain" target="_blank"><h1 align="center"><img src="https://raw.githubusercontent.com/TomasS-R/TomasS-R/aa8db35a70b519cbc37efe72e6a9eaebbee6b7f9/Icons/001-twitter.svg" alt="Twitter" width="50" height="50"/></a> <a href="https://www.facebook.com/tomas.saintromain1/" target="_blank"><img src="https://raw.githubusercontent.com/TomasS-R/TomasS-R/aa8db35a70b519cbc37efe72e6a9eaebbee6b7f9/Icons/008-facebook.svg" alt="Facebook" width="50" height="50"/></a> <a href="https://www.linkedin.com/in/ts-r/" target="_blank"><img src="https://raw.githubusercontent.com/TomasS-R/TomasS-R/aa8db35a70b519cbc37efe72e6a9eaebbee6b7f9/Icons/010-linkedin.svg" alt="Linkedin" width="50" height="50"/></h1></a>
