@@ -5,7 +5,7 @@
 
 - 🔭 I am passionate about technology and very curious of the life in general.
 - 😄 Focused on mobile development
-- 🖥️ If i boring i design some logos in illustrator
+- 🖥️ If i'm bored I design some logos in illustrator
 - 📫 How to reach me: tomas.saintromain@gmail.com.
 
 ---
