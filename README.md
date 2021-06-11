@@ -1,22 +1,21 @@
- <h1 align = "center"> Hí! I´m Tomás. <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/Hand.gif?raw=true" alt="heroku" width="40" height="40"/>👨🏻‍💻</h1>
+<img align='right' src='https://github.com/TomasS-R/TomasS-R/blob/c65a1b7fb229465a7555c347d54af1aac7a8fe14/Icons/ironman%20(1).gif' width='22%'>
+<img align='left' src='https://github.com/TomasS-R/TomasS-R/blob/b24dcfb416a78098ef29a041cd2c6884d5daa4ff/Icons/Wolverine.gif' width='22%'>
 
-### I´m junior Developer and enthusiastic, studing computer engineering. I would like work with andoid/ios devs
-
-Some information about me:
+<h2 align='center'> Hí! I´m Tomás. <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/Hand.gif?raw=true" width="50"></h2>
 
 - 🔭 I am passionate about technology and very curious of the life in general.
-- 😄 Pronouns: Tom, Tommy, please don´t call me thomas or tomato. 😅
-- 🎮 Hobbies: Games, run, swiming, sports
-- 🍭 I love sweet´s and cakes
+- 😄 Focused on mobile development
 - 🖥️ If i boring i design some logos in illustrator
 - 📫 How to reach me: tomas.saintromain@gmail.com.
 
+---
 
-### I handle well with this lenguages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-
-### I have bases in:
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<h1> Skills 👨🏻‍💻 </h1>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ### Tools:
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/wordpress.svg" alt="Wordpress" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
@@ -26,7 +25,6 @@ Some information about me:
 
 [![TomasS-R GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasS-R&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/TomasS-R/TomasS-R/blob/096c42c56aaa61c59edc799cf0abfecf5be47890/animation.gif" alt="ironman"/> 
 
 <h1 align="center">🌎 You can contact me in this social medias:</h1>
 
