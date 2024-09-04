@@ -1,40 +1,42 @@
-<img align='right' src='https://github.com/TomasS-R/TomasS-R/blob/c65a1b7fb229465a7555c347d54af1aac7a8fe14/Icons/ironman%20(1).gif' width='22%'>
-<img align='left' src='https://github.com/TomasS-R/TomasS-R/blob/b24dcfb416a78098ef29a041cd2c6884d5daa4ff/Icons/Wolverine.gif' width='22%'>
+<h1 align='center'> Hí! I´m Tomás. <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/Hand.gif?raw=true" width="50">
 
-<h2 align='center'> Hí! I´m Tomás. <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/Hand.gif?raw=true" width="50"></h2>
+<img align='right' src='https://github.com/TomasS-R/TomasS-R/blob/c65a1b7fb229465a7555c347d54af1aac7a8fe14/Icons/ironman%20(1).gif' width='22%'>
+</h1>
 
 - 🔭 I am passionate about technology and very curious of the life in general.
-- 😄 Focused on mobile development
-- 🖥️ If i'm bored I design some logos in illustrator
+- 😄 Focused on development, now in Node and python
+- 🖥️ If i'm bored I design some logos in illustrator or takes photos
 - 📫 How to reach me: tomas.saintromain@gmail.com.
 
 ---
 
-<h1> Skills 👨🏻‍💻 </h1>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<h2> Skills 👨🏻‍💻 </h2>
 
-### Tools:
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> <img src="https://github.com/TomasS-R/TomasS-R/blob/main/Icons/wordpress.svg" alt="Wordpress" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![TomasS-R GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasS-R&hide=contribs,prs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h1 align="center">🌎 You can contact me in this social medias:</h1>
-
-<a href="https://twitter.com/TomSaintRomain" target="_blank"><h1 align="center"><img src="https://raw.githubusercontent.com/TomasS-R/TomasS-R/aa8db35a70b519cbc37efe72e6a9eaebbee6b7f9/Icons/001-twitter.svg" alt="Twitter" width="50" height="50"/></a> <a href="https://www.facebook.com/tomas.saintromain1/" target="_blank"><img src="https://raw.githubusercontent.com/TomasS-R/TomasS-R/aa8db35a70b519cbc37efe72e6a9eaebbee6b7f9/Icons/008-facebook.svg" alt="Facebook" width="50" height="50"/></a> <a href="https://www.linkedin.com/in/ts-r/" target="_blank"><img src="https://raw.githubusercontent.com/TomasS-R/TomasS-R/aa8db35a70b519cbc37efe72e6a9eaebbee6b7f9/Icons/010-linkedin.svg" alt="Linkedin" width="50" height="50"/></h1></a>
-
-<!--
-Android: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-AWS: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-Git: <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-Unity: <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-Adobe XD: <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
--->
+<a href="https://github.com/anuraghazra/github-readme-stats" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasS-R&&layout=compact&theme=material-palenight&hide_border=true" /></a>
+### 📫 Social and Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ts-r/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tomas.saintromain@gmail.com)
